@@ -2,8 +2,9 @@
 
 - Introduction
   - [Overview](#overview)
+    - [Tech Stacks](#tech-stacks)
   - [Pre-requesties](#pre-requesties)
-  - [Installation & Configuration](#installation-&-configuration)
+  - [Installation & Configuration](#installation--configuration)
   - [Deploy](#deploy)
   - [Monitor](#monitor)
   - [Troubleshooting](#troubleshooting)
