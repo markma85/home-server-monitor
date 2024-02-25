@@ -2,8 +2,9 @@
 
 - Introduction
   - [Overview](#overview)
+    - [Tech Stacks](#tech-stacks)
   - [Pre-requesties](#pre-requesties)
-  - [Installation & Configuration](#installation-&-configuration)
+  - [Installation & Configuration](#installation--configuration)
   - [Deploy](#deploy)
   - [Monitor](#monitor)
   - [Troubleshooting](#troubleshooting)
@@ -42,5 +43,5 @@
 
 # References
 This project is inspired by the following repositories, special thanks to the contributors.
-- [@vegasbrianc/prometheus](#https://github.com/vegasbrianc/prometheus/)
-- [@maxandersen/internet-monitoring](#https://github.com/maxandersen/internet-monitoring/)
+- [@vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus/)
+- [@maxandersen/internet-monitoring](https://github.com/maxandersen/internet-monitoring/)
