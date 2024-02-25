@@ -7,6 +7,7 @@
   - [Deploy](#deploy)
   - [Monitor](#monitor)
   - [Troubleshooting](#troubleshooting)
+  - [References](#references)
 
 # Overview
 
@@ -38,3 +39,8 @@
 # Monitor
 
 # Troubleshooting
+
+# References
+This project is inspired by the following repositories, special thanks to the contributors.
+- [@vegasbrianc/prometheus](#https://github.com/vegasbrianc/prometheus/)
+- [@maxandersen/internet-monitoring](#https://github.com/maxandersen/internet-monitoring/)
